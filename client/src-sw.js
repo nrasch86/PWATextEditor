@@ -18,7 +18,7 @@ const pageCache = new CacheFirst({
     }),
   ],
 });
-
+ // Comment
 warmStrategyCache({
   urls: ['/index.html', '/'],
   strategy: pageCache,
