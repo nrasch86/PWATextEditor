@@ -38,6 +38,7 @@ This repository houses the code utilized in the creation of a text editor web ap
 
 This application is fully functional within the user's browser and offers the option of being downloaded as a desktop application for offline use. Simply clone this project and run 'npm run start' within a root-level integrated terminal and begin using the text editor!
 
+Live Deployment: https://pwatexteditor-1.onrender.com/Links to an external site.
 
 
 
